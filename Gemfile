@@ -45,3 +45,4 @@ group :development do
   gem 'spring'
 end
 
+gem 'devise-bootstrapped', '~> 0.1.1'
